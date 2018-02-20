@@ -14,6 +14,26 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 20/02/2018
+**Company:** [Blue Reply](http://www.reply.com)  
+**Location:** Torino, Milano  
+**Title:** Senior Developer, Technical Analyst  
+**Contact:** <e.bacci@reply.it>  
+ 
+Blue Reply, società del gruppo Reply focalizzata sulle trasformazioni digitali con piattaforme e tecnologie IBM, ricerca sviluppatori full-stack con esperienza (almeno 3 anni), per sviluppi di portali di ecommerce.
+L'ambito lavorativo prevederà attività di analisi tecnica, supporto ai team di analisi funzionale, progettazione tecnica, pianificazione, gestione di piccoli team di sviluppo, consegna del software prodotto con elevati standard di qualità.
+
+Requisiti:
+- Buone competenze tecniche in alcuni di questi ambiti: JavaEE, tecnologie di frontend (JSP, Angular.js, jQuery, etc.), Architetture Enterprise, Oracle
+- Attitudine al problem solving, autonomia e responsabilità professionale
+- Capacità di operare in team numerosi (> 10 persone)
+- Capacità di gestire codice complesso (~50K statements)
+- Volontà di partecipare ad iniziative di innovazione tecnologica di sistemi
+
+La posizione è aperta sia per assunzioni sia per contractors/freelance.
+
+---
+
 **Date:** 05/01/2018  
 **Company:** [Engage Technology Partners](https://www.engagetech.com/)  
 **Location:** Remote  
